@@ -5,7 +5,7 @@ Latex code for drawing neural networks for reports and presentation. Have a look
 
 [C1]Change -1
 [C2]change -2
-
+[C3]change--3
 ## TODO
 
 - [X] Python interfaz
