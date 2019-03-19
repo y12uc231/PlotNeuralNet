@@ -4,6 +4,7 @@
 Latex code for drawing neural networks for reports and presentation. Have a look into examples to see how they are made. Additionally, lets consolidate any improvements that you make and fix any bugs to help more people with this code.
 
 [C1]Change -1
+[C2]change -2
 
 ## TODO
 
